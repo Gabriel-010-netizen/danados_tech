@@ -1,0 +1,21 @@
+ESTRUTURA DO PROJETO
+
+- index.html e páginas de categorias ficam na raiz.
+- css/ contém o style.css.
+- img/ contém todas as imagens.
+- produtos/ contém as páginas individuais, separadas por categoria.
+- arquivos/ contém arquivos auxiliares de referência.
+
+Os caminhos dos HTMLs foram ajustados para essa organização.
+
+Entendeu mano prod?? eu deixei aqui meio ja explicado, pra nao ter dúvida e no codigo é so adicionar /.. pra sair belezinha?
+bom, falta so adicionar imagens nao genericas e organizar o footer do site, e talvez deixar ele mais bonito, mas ja deixei ele
+complemtamente funcional isso signifca que ja tem ancora ja tem todas as sessões e tudo está funcionando, agora falta deixar visualmente 
+bonito e adicionar uns detalhes.
+
+LEMBREI DE OUTRA COISA, na tela de login tem que adicionar aquele bonequinho que fica tipo cinzinha encima no centro, so colocar auto margin ou center que ele centraliza ja encima
+pegando a mesma box dos textos, acho que o felipe pode fazer. AH OUTRA COISA, precisa adicionar um botão de voltar pra pagina principal na tela de cadastro, do colocar um <a> com index.html
+que é a nossa main.
+
+OUTRAAAAAAAAA COISA sabe a nossa main, ela tem que ter todos os conteúdos das outras sessões então por gentileza copie e cole itens das outras sessões todos pelo menos uns 60 itens la
+tem que ter fecho? caso tenham alguma dúvida pode vir me perguntar. mas ja ta na reta final quem quiser mexer agora ja pode meter bronca
