@@ -1,0 +1,145 @@
+Mapa de imagens aplicado aos cards e páginas individuais
+
+pcgamer #01 - PC gamer Ryzen 5 RTX 4060 -> img/pc1.jpeg
+pcgamer #02 - PC gamer i5 RTX 4060 -> img/pc2.jpeg
+pcgamer #03 - PC gamer Ryzen 7 RTX 4070 -> img/pc3.jpeg
+pcgamer #04 - PC gamer i7 RTX 4070 -> img/pc4.jpeg
+pcgamer #05 - PC gamer de entrada -> img/pc5.jpeg
+pcgamer #06 - PC gamer barato -> img/pc6.jpeg
+pcgamer #07 - PC gamer RX 7600 -> img/pc1.jpeg
+pcgamer #08 - PC gamer Ryzen 5 5600 -> img/pc2.jpeg
+pcgamer #09 - PC gamer i3 GTX 1650 -> img/pc3.jpeg
+pcgamer #10 - PC gamer 16GB RAM SSD -> img/pc4.jpeg
+pcgamer #11 - PC gamer 32GB RAM -> img/pc5.jpeg
+pcgamer #12 - PC gamer branco -> img/pc6.jpeg
+pcgamer #13 - PC gamer RGB -> img/pc1.jpeg
+pcgamer #14 - PC gamer completo com monitor -> img/pc2.jpeg
+pcgamer #15 - PC gamer para streaming -> img/pc3.jpeg
+pcgamer #16 - PC gamer RTX 5060 -> img/pc4.jpeg
+pcgamer #17 - PC gamer RTX 5070 -> img/pc5.jpeg
+pcgamer #18 - PC gamer Ryzen 7 7800X3D -> img/pc6.jpeg
+pcgamer #19 - PC gamer mini ITX -> img/pc1.jpeg
+pcgamer #20 - PC gamer custo-benefício -> img/pc2.jpeg
+notebooks #01 - Notebook gamer -> img/notebook acer.jpeg
+notebooks #02 - Notebook gamer RTX 4050 -> img/notebook asus.jpeg
+notebooks #03 - Notebook i5 16GB -> img/notebook asus2.jpeg
+notebooks #04 - Notebook Ryzen 5 -> img/notebook lenovo.jpeg
+notebooks #05 - Notebook Ryzen 7 -> img/notebook lenovo2.jpeg
+notebooks #06 - Notebook i7 -> img/notebook msi.jpeg
+notebooks #07 - Notebook SSD 512GB -> img/notebook acer.jpeg
+notebooks #08 - Notebook barato -> img/notebook asus.jpeg
+notebooks #09 - Notebook para estudante -> img/notebook asus2.jpeg
+notebooks #10 - Notebook para trabalho -> img/notebook lenovo.jpeg
+notebooks #11 - Notebook 15.6 polegadas -> img/notebook lenovo2.jpeg
+notebooks #12 - Notebook 14 polegadas -> img/notebook msi.jpeg
+notebooks #13 - Notebook Acer Aspire -> img/notebook acer.jpeg
+notebooks #14 - Notebook Lenovo IdeaPad -> img/notebook lenovo.jpeg
+notebooks #15 - Notebook Dell Inspiron -> img/notebook asus2.jpeg
+notebooks #16 - Notebook Samsung Galaxy Book -> img/notebook lenovo.jpeg
+notebooks #17 - Notebook Asus Vivobook -> img/notebook asus.jpeg
+notebooks #18 - Notebook gamer Acer Nitro -> img/notebook acer.jpeg
+notebooks #19 - MacBook Air -> img/notebook acer.jpeg
+notebooks #20 - Notebook 2 em 1 -> img/notebook asus.jpeg
+hardware #01 - Placa de vídeo RTX 4060 -> img/gpu_generic.png
+hardware #02 - Placa de vídeo RX 7600 -> img/gpu_generic.png
+hardware #03 - Placa de vídeo RTX 5060 -> img/gpu_generic.png
+hardware #04 - Processador Ryzen 5 5600 -> img/processador.jpeg
+hardware #05 - Processador Ryzen 7 7800X3D -> img/processador.jpeg
+hardware #06 - Processador Intel Core i5 -> img/processador.jpeg
+hardware #07 - Processador Intel Core i7 -> img/processador.jpeg
+hardware #08 - Placa-mãe B550 -> img/placa mae.jpeg
+hardware #09 - Placa-mãe B650 -> img/placa mae.jpeg
+hardware #10 - Placa-mãe B760 -> img/placa mae.jpeg
+hardware #11 - Memória RAM DDR4 16GB -> img/memoria ram.jpeg
+hardware #12 - Memória RAM DDR5 32GB -> img/memoria ram.jpeg
+hardware #13 - SSD NVMe 1TB -> img/ssd.jpeg
+hardware #14 - SSD SATA 480GB -> img/ssd.jpeg
+hardware #15 - HD 2TB -> img/hd_2tb.png
+hardware #16 - Fonte 650W 80 Plus -> img/fonte.jpeg
+hardware #17 - Fonte 750W -> img/fonte.jpeg
+hardware #18 - Gabinete gamer -> img/pc1.jpeg
+hardware #19 - Water cooler -> img/water_cooler.png
+hardware #20 - Air cooler processador -> img/air_cooler.png
+perifericos #01 - Teclado mecânico -> img/teclado logitech.jpeg
+perifericos #02 - Teclado gamer Redragon -> img/teclado razor.jpeg
+perifericos #03 - Mouse gamer -> img/mouse.jpeg
+perifericos #04 - Mouse sem fio -> img/mouse.jpeg
+perifericos #05 - Mousepad gamer -> img/mousepad_gamer.png
+perifericos #06 - Headset gamer -> img/fone.jpeg
+perifericos #07 - Fone de ouvido Bluetooth -> img/fone.jpeg
+perifericos #08 - Monitor gamer 144Hz -> img/monitor_gamer.png
+perifericos #09 - Monitor 24 polegadas -> img/monitor_gamer.png
+perifericos #10 - Monitor 27 polegadas -> img/monitor_gamer.png
+perifericos #11 - Monitor ultrawide -> img/monitor_ultrawide.png
+perifericos #12 - Webcam Full HD -> img/webcam.jpeg
+perifericos #13 - Microfone condensador USB -> img/microfone_usb.png
+perifericos #14 - Cadeira gamer -> img/cadeira_gamer.png
+perifericos #15 - Mesa gamer -> img/mesa_gamer.png
+perifericos #16 - Controle PS5 -> img/controle_branco.png
+perifericos #17 - Controle Xbox -> img/controle_preto.png
+perifericos #18 - Caixa de som gamer -> img/caixa_som_gamer.png
+perifericos #19 - Hub USB -> img/hub_usb.png
+perifericos #20 - Suporte de monitor -> img/suporte_monitor.png
+smartphones #01 - Samsung Galaxy S25 -> img/celulars25.jpeg
+smartphones #02 - Samsung Galaxy A56 -> img/celular samsung.jpeg
+smartphones #03 - Samsung Galaxy A36 -> img/celular samsung.jpeg
+smartphones #04 - iPhone 16 -> img/iphone16.jpeg
+smartphones #05 - iPhone 15 -> img/iphone16.jpeg
+smartphones #06 - iPhone 17 -> img/iphone16.jpeg
+smartphones #07 - Xiaomi Redmi Note 14 -> img/celular redmi.jpeg
+smartphones #08 - Xiaomi Poco X7 -> img/celular poco.jpeg
+smartphones #09 - Motorola Moto G85 -> img/celular motorola.jpeg
+smartphones #10 - Motorola Edge -> img/celular motorola.jpeg
+smartphones #11 - Smartphone 256GB -> img/celular samsung.jpeg
+smartphones #12 - Smartphone 5G -> img/celular samsung.jpeg
+smartphones #13 - Smartphone barato -> img/celular samsung.jpeg
+smartphones #14 - Smartphone gamer -> img/celular samsung.jpeg
+smartphones #15 - Celular bateria 5000mAh -> img/celular samsung.jpeg
+smartphones #16 - Samsung Galaxy Z Flip -> img/celular samsung.jpeg
+smartphones #17 - Motorola Razr -> img/celular motorola.jpeg
+smartphones #18 - Realme -> img/celular samsung.jpeg
+smartphones #19 - Celular Android 128GB -> img/celular samsung.jpeg
+smartphones #20 - iPhone 17 Pro -> img/iphone16.jpeg
+tvs #01 - Smart TV 32 polegadas -> img/tv1.jpeg
+tvs #02 - Smart TV 43 polegadas 4K -> img/tv2.jpeg
+tvs #03 - Smart TV 50 polegadas 4K -> img/tv samsung2.jpeg
+tvs #04 - Smart TV 55 polegadas 4K -> img/tv1.jpeg
+tvs #05 - Smart TV 65 polegadas 4K -> img/tv2.jpeg
+tvs #06 - Smart TV 75 polegadas -> img/tv samsung2.jpeg
+tvs #07 - Smart TV 85 polegadas -> img/tv1.jpeg
+tvs #08 - TV OLED 55 polegadas -> img/tv lg.jpeg
+tvs #09 - TV OLED 65 polegadas -> img/tv lg.jpeg
+tvs #10 - TV QLED 55 polegadas -> img/tv samsung.jpeg
+tvs #11 - TV QLED 65 polegadas -> img/tv samsung.jpeg
+tvs #12 - TV Mini LED -> img/tv samsung2.jpeg
+tvs #13 - TV Samsung 4K -> img/tv samsung.jpeg
+tvs #14 - TV LG 4K -> img/tv lg.jpeg
+tvs #15 - TV TCL 4K -> img/tv tcl.jpeg
+tvs #16 - TV Philips 4K -> img/tv1.jpeg
+tvs #17 - TV AOC 4K -> img/tv2.jpeg
+tvs #18 - TV Hisense 4K -> img/tv samsung2.jpeg
+tvs #19 - TV Sony Bravia -> img/tv1.jpeg
+tvs #20 - TV 8K -> img/tv2.jpeg
+consoles #01 - Nintendo Switch 2 -> img/switch2.jpeg
+consoles #02 - Nintendo Switch 2 Mario Kart World -> img/switch2.jpeg
+consoles #03 - PS5 Pro -> img/ps5pro.jpeg
+consoles #04 - MSI Claw 8 AI -> img/console_portatil.png
+consoles #05 - PS5 Slim -> img/ps5slim.jpeg
+consoles #06 - PlayStation 5 Slim edição digital -> img/ps5slim.jpeg
+consoles #07 - PlayStation 5 Slim com leitor de disco -> img/ps5slim.jpeg
+consoles #08 - PS5 Slim 1TB -> img/ps5slim.jpeg
+consoles #09 - Xbox Series X -> img/xbox series x.jpeg
+consoles #10 - Xbox Series X 2TB -> img/xbox series x.jpeg
+consoles #11 - Console portátil gamer -> img/console_portatil.png
+consoles #12 - Xbox Series S -> img/xbox series s.jpeg
+consoles #13 - Xbox Series S 512GB -> img/xbox series s.jpeg
+consoles #14 - Xbox Series S 1TB -> img/xbox series s.jpeg
+consoles #15 - ROG Xbox Ally -> img/console_portatil.png
+consoles #16 - ROG Xbox Ally X -> img/console_portatil.png
+consoles #17 - ROG Ally X -> img/console_portatil.png
+consoles #18 - Steam Deck OLED -> img/console_portatil.png
+consoles #19 - Legion Go 2 -> img/console_portatil.png
+consoles #20 - Nintendo Switch OLED -> img/switch oled.jpeg
+
+Total mapeado: 140
+Referências quebradas: 0
